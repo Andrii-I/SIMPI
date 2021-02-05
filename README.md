@@ -1,3 +1,5 @@
+simpclient.cpp and simpserver.cpp were written by me, Andrii
+
 # SIMPI
 Simple advanced math parallelization interface in C++ designed for linux. 
 
